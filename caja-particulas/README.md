@@ -5,5 +5,5 @@ Simulación estocástica del transporte de partículas entre dos regiones de una
 Se realizaron 10 simulaciones y se comparó el promedio contra la solución analítica del sistema en equilibrio.
 
 ## Archivos
-- `instrucciones.pdf` — enunciado del problema (sólo ver el correspondiente "partículas en una caja").
+- `instrucciones tsrea 7.pdf` — enunciado del problema (sólo ver el correspondiente "partículas en una caja").
 - `Box_7.3.py` — implementación del problema
