@@ -11,4 +11,4 @@ Chi^2_red ≈ 0.85
 
 ## Archivos
 - `Inerpolaciones.pdf` — enunciado del problema (problema 4)
-- `RLDecay.py` — implementación numérica
+- `volt-ind.py` — implementación numérica
